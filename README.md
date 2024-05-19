@@ -1,4 +1,5 @@
-# Project Report: Desktop Trading Platform
+# Trading Platform for Campus Secondhand Goods
+
 ## Overview
 This project involves the development of a second-hand trading platform, specifically designed as a desktop application to facilitate campus-wide trading. The platform utilizes Java as the primary programming language, adhering to object-oriented principles to ensure high modularity and scalability. The design and implementation leverage various advanced programming techniques and technologies, including Java Swing for the graphical user interface, MySQL for backend data management, and TCP/IP socket programming for network communications.
 
